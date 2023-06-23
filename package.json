@@ -6,9 +6,21 @@
     "dev": "nuxt dev",
     "generate": "nuxt generate",
     "preview": "nuxt preview",
-    "postinstall": "nuxt prepare"
+    "postinstall": "nuxt prepare",
+    "lint:eslint": "eslint --ext \".js,.ts,.vue\" --ignore-path .eslintignore --ignore-path .gitignore .",
+    "lint:prettier": "prettier --check .",
+    "lint": "npm run lint:eslint && npm run lint:prettier",
+    "lint:fix": "prettier --write --list-different . && npm run lint:eslint --fix",
+    "prepare": "husky install"
+
   },
   "devDependencies": {
+    "@nuxtjs/eslint-config-typescript": "^12.0.0",
+    "@typescript-eslint/parser": "^5.53.0",
+    "eslint": "^8.34.0",
+    "eslint-config-prettier": "^8.6.0",
+    "eslint-plugin-prettier": "^4.2.1",
+    "prettier": "^2.8.4",
     "@types/bootstrap": "^5.2.6",
     "nuxt": "^3.4.3",
     "sass": "^1.62.1",

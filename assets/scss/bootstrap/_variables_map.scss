@@ -1,0 +1,7 @@
+$theme-colors: map-remove($theme-colors, "warning");
+$theme-colors: map-merge($theme-colors, $custom-theme-colors);
+
+//$grid-breakpoints: map-merge($grid-breakpoints, $custom-grid-breakpoints);
+//$container-max-widths: map-merge($container-max-widths, $custom-container-max-widths);
+
+//$font-sizes: map-merge($font-sizes, $custom-font-sizes);
