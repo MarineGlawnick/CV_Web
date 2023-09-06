@@ -1,5 +1,5 @@
 <template>
-    <section id="about" class="d-flex flex-column gap-4 mx-4 my-2">
+    <section id="skills" class="d-flex flex-column gap-4 mx-4 my-2">
         <h1 class="text-center">Compétences</h1>
         <div class="shadow card p-3 bg-white border-0">
             <div class="card-body">

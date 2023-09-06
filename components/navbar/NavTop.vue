@@ -20,10 +20,10 @@
                         /></a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="#">A propos</a>
+                        <a class="nav-link" href="#about">A propos</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="#">Compétences</a>
+                        <a class="nav-link" href="#skills">Compétences</a>
                     </li>
                     <li class="nav-item">
                         <a class="nav-link" href="#">Expérience</a>

@@ -1,3 +1,17 @@
+main {
+  margin: auto;
+  max-width: 1400px;
+}
+
 #header {
   margin-top: 200px;
+}
+
+#about {
+  margin-bottom: 150px;
+
+  .presentation {
+    margin: 0 200px;
+    text-align: justify;
+  }
 }
