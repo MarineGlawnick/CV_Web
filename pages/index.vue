@@ -2,8 +2,12 @@
     <div>
         <NavbarNavTop />
         <Header />
-        <a><img alt="Bottom arrow" src="@/assets/icons/bottom_arrow.svg" /></a>
-        <section id="about"></section>
+        <div id="scroll" class="d-flex justify-content-center">
+            <a href="#about">
+                <img alt="Bottom arrow" src="@/assets/icons/bottom_arrow.svg" width="50" />
+            </a>
+        </div>
+        <Skills />
         <section id="skills"></section>
         <section id="experience"></section>
         <section id="studies"></section>

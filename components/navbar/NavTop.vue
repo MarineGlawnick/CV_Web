@@ -2,17 +2,17 @@
     <nav class="navbar navbar-expand-lg bg-nav bg-opacity-50">
         <div class="container-fluid">
             <button
-                aria-controls="navbarNav"
+                aria-controls="navbarContent"
                 aria-expanded="false"
                 aria-label="Toggle navigation"
                 class="navbar-toggler"
-                data-bs-target="#navbarNav"
+                data-bs-target="#navbarContent"
                 data-bs-toggle="collapse"
                 type="button"
             >
                 <span class="navbar-toggler-icon"></span>
             </button>
-            <div id="navbarNav" class="collapse navbar-collapse justify-content-end">
+            <div id="navbarContent" class="collapse navbar-collapse justify-content-end align-content-center">
                 <ul class="navbar-nav">
                     <li class="nav-item">
                         <a aria-current="page" class="nav-link active" href="#"

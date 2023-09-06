@@ -1,6 +1,6 @@
 <template>
     <section id="header">
-        <div class="d-flex align-items-center gap-4 justify-content-center my-5">
+        <div class="d-flex align-items-center gap-4 justify-content-center">
             <div>
                 <img
                     alt="Profile picture"
