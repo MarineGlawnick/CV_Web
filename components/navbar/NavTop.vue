@@ -1,5 +1,5 @@
 <template>
-    <nav class="navbar navbar-expand-lg bg-grey bg-opacity-25">
+    <nav class="navbar navbar-expand-lg bg-nav bg-opacity-50">
         <div class="container-fluid">
             <button
                 aria-controls="navbarNav"
@@ -15,10 +15,15 @@
             <div id="navbarNav" class="collapse navbar-collapse justify-content-end">
                 <ul class="navbar-nav">
                     <li class="nav-item">
-                        <a aria-current="page" class="nav-link active" href="#">Home</a>
+                        <a aria-current="page" class="nav-link active" href="#"
+                            ><img alt="Icon de maison" src="@/assets/icons/home.svg"
+                        /></a>
                     </li>
                     <li class="nav-item">
                         <a class="nav-link" href="#">A propos</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="#">Compétences</a>
                     </li>
                     <li class="nav-item">
                         <a class="nav-link" href="#">Expérience</a>
@@ -27,7 +32,7 @@
                         <a class="nav-link" href="#">Parcours</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="#">Compétences</a>
+                        <a class="nav-link" href="#">Réalisations</a>
                     </li>
                     <li class="nav-item">
                         <a class="nav-link" href="#">Contact</a>
