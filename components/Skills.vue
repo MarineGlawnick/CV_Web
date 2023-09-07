@@ -1,11 +1,11 @@
 <template>
     <section id="skills" class="mx-4 my-2">
-        <h1 class="text-center">Compétences</h1>
+        <h1 class="text-center">{{ $t("skills.skill") }}</h1>
         <div class="d-flex flex-column gap-4">
             <div class="shadow card p-2 bg-white border-0">
                 <div class="card-body">
                     <h1 class="card-title">Front-end</h1>
-                    <p>Intégration de sites webs et applications mobiles responsive et respondant aux normes du W3C</p>
+                    <p>{{ $t("skills.integration") }}</p>
                     <div class="row row-cols-md-2 row-cols-1">
                         <div class="d-flex flex-column gap-1">
                             <span>HTML5</span>
@@ -109,11 +109,11 @@
             </div>
             <div class="card p-3 shadow bg-white border-0">
                 <div class="card-body">
-                    <h1 class="card-title">Environnement de travail</h1>
+                    <h1 class="card-title">{{ $t("skills.environment") }}</h1>
                     <div class="d-flex flex-column gap-2">
                         <div class="d-flex gap-2">
                             <img alt="PC display logo" src="@/assets/icons/pc-display.svg" width="20" />
-                            <span class="fw-bold">Systèmes d'exploitations : </span>
+                            <span class="fw-bold">{{ $t("skills.system") }} </span>
                             <span>Windows, Ubuntu</span>
                         </div>
                         <div class="d-flex gap-2">
@@ -128,13 +128,13 @@
                         </div>
                         <div class="d-flex gap-2">
                             <img alt="Translate logo" src="@/assets/icons/translate.svg" width="20" />
-                            <span class="fw-bold">Langues : </span>
-                            <span>Maitrise de la langue anglaise: écrit et oral</span>
+                            <span class="fw-bold">{{ $t("skills.language") }}</span>
+                            <span>{{ $t("skills.english") }}</span>
                         </div>
                         <div class="d-flex gap-2">
                             <img alt="Universal logo" src="@/assets/icons/universal-access.svg" width="20" />
-                            <span class="fw-bold">Savoir-être : </span>
-                            <span>Curieuse, autonome, esprit d'équipe, rigoureuse</span>
+                            <span class="fw-bold">{{ $t("skills.soft") }}</span>
+                            <span>{{ $t("skills.qualities") }}</span>
                         </div>
                     </div>
                 </div>

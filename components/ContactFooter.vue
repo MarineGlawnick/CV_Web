@@ -1,9 +1,9 @@
 <template>
     <section id="contactFooter" class="bg-nav px-5 py-3">
-        <h2 class="text-center text-white fs-20 fw-bolder">Contactez-moi !</h2>
+        <h2 class="text-center text-white fs-20 fw-bolder">{{ $t("footer.contact") }}</h2>
         <p class="text-center text-white fs-16">
-            Actuellement à la recherche d'un nouvel emploi, je suis intéressée par les postes de: <br />
-            <strong>Développeur Web • Développeur Front-End</strong>
+            {{ $t("footer.currently") }}<br />
+            <strong>{{ $t("footer.dev") }}</strong>
         </p>
         <div class="row row-cols-1 row-cols-md-3 g-5">
             <div class="col">
@@ -26,10 +26,10 @@
             </div>
             <div class="col">
                 <div
-                    class="bg-white border border-0 rounded d-flex flex-column align-items-center justify-content-center h-100 shadow contact-card"
+                    class="bg-white border border-0 rounded d-flex flex-column align-items-center justify-content-center h-100 shadow contact-card address-card"
                 >
-                    <span>Vous souhaitez me recontrez ?</span>
-                    <span>Je suis disponible à Aix-en-Provence et ses alentours</span>
+                    <span>{{ $t("footer.meet") }}</span>
+                    <span class="text-center">{{ $t("footer.address") }}</span>
                 </div>
             </div>
         </div>

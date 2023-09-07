@@ -1,0 +1,32 @@
+{
+  "header": {
+    "download": "Download CV",
+    "dev": "Web Developer"
+  },
+  "about": {
+    "me": "About me",
+    "presentation1": "I am a Web Developer, I am looking for a job after spending one year of intership into a company specialized in cybersecurity. This experience allows me to have a great autonomy and be more confident about my new skills.",
+    "presentation2": "I have literary background, I started with English Studies. However, my educational journey took another turn to the IT world. Indeed, I've always been very interesting into IT development, I first started this new career into this world by learning by myself thanks to onlines courses and videos. After that, I started a school training to become a web developer with OpenClassrooms which helped to reinforce and develop my new skills.",
+    "nationality": "Nationality",
+    "french": "French",
+    "residence": "Place of residence",
+    "social": "Professional social media"
+  },
+  "skills": {
+    "skill": "Skills",
+    "integration": "Integration of responsive websites and mobiles applications that meet W3C standards",
+    "environment": "Working environnement",
+    "system": "Operating system :",
+    "language": "Languages :",
+    "english": "Fluent in English",
+    "soft": "Soft skills :",
+    "qualities": "Curious, autonomous, team spirit, rigorous"
+  },
+  "footer": {
+    "contact": "Contact me !",
+    "currently": "Currently looking for a new job, I am interested in :",
+    "dev": "Web Developer • Front-End Developer",
+    "meet": "Do you want to meet me ?",
+    "address": "I am available in Aix-en-Provences and its surroudings"
+  }
+}
