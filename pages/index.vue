@@ -1,6 +1,6 @@
 <template>
     <div>
-        <NavbarNavTop />
+        <NavTop />
         <main>
             <Header />
             <div id="scroll" class="d-flex justify-content-center">
@@ -10,18 +10,17 @@
             </div>
             <About />
             <Skills />
-            <section id="skills"></section>
             <section id="experience"></section>
             <section id="studies"></section>
             <section id="realisations"></section>
-            <section id="footerContact"></section>
         </main>
+        <ContactFooter />
     </div>
 </template>
 <script setup>
 import Header from "~/components/Header.vue"
-
-definePageMeta({
-    layout: "default",
-})
+import NavTop from "~/components/navbar/NavTop.vue"
+import About from "~/components/About.vue"
+import Skills from "~/components/Skills.vue"
+import ContactFooter from "~/components/ContactFooter.vue"
 </script>
