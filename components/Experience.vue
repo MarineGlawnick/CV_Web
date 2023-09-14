@@ -1,6 +1,6 @@
 <template>
     <section id="experience">
-        <h1 class="text-center mb-4">Mon expérience</h1>
+        <h1 class="text-center mb-4">{{ $t("experience.title") }}</h1>
         <div id="accordionFlushExample" class="accordion accordion-flush">
             <div class="accordion-item">
                 <h2 class="accordion-header">
@@ -12,7 +12,7 @@
                         aria-expanded="false"
                         aria-controls="flush-collapseFive"
                     >
-                        Développeuse web en alternance chez Seela - 2022-23
+                        {{ $t("experience.accordion_title") }}
                     </button>
                 </h2>
                 <div
@@ -22,10 +22,10 @@
                 >
                     <div class="accordion-body lh-lg">
                         <ul>
-                            <li>Maintenance des produits proposés par l'entreprise</li>
-                            <li>Création du site vitrine de l'entreprise</li>
-                            <li>Participation à des POCS</li>
-                            <li>Stack: Nuxt 2 et 3, Bootstrap, Tailwind, UnoCSS, TypeScript</li>
+                            <li>{{ $t("experience.accordion_body1") }}</li>
+                            <li>{{ $t("experience.accordion_body2") }}</li>
+                            <li>{{ $t("experience.accordion_body3") }}</li>
+                            <li>{{ $t("experience.accordion_body4") }}</li>
                         </ul>
                     </div>
                 </div>

@@ -1,6 +1,6 @@
 <template>
     <div id="real-part" class="mx-2 mx-lg-0">
-        <h1 class="text-center my-4">Mes réalisations</h1>
+        <h1 class="text-center my-4">{{ $t("realisation.title") }}</h1>
         <div class="row row-cols-1 row-cols-md-2 row-cols-lg-4 real-grid justify-content-center m-0 w-100">
             <RealCard :real="realisations[0]" />
             <RealCard :real="realisations[1]" />
@@ -19,57 +19,57 @@ import useAssets from "~/composables/useAssets"
 const realisations = computed((): IRealisationCardProperties => {
     return [
         {
-            name: "Booki Project avec OpenClassrooms",
+            name: "Booki Project, OpenClassrooms",
             src: useAssets("logo-booki.svg"),
             alt: "Booki logo",
             btnSrc: "https://github.com/MarineGlawnick/OpenClassrooms_BookiProject",
             btnSrc2:
                 "https://precious-hummingbird-f6c326.netlify.app/?fbclid=IwAR2pX9c8Cc34hChtnloTzFv9O5VeNvoH0qysCjYeaiZLcTXq_oQVXGDlpzQ#",
             width: "w-50",
-            description: "HTML5 et CSS3",
+            description: "HTML5 / CSS3",
         },
         {
-            name: "OhMyFood Project avec OpenClassrooms",
+            name: "OhMyFood Project, OpenClassrooms",
             src: useAssets("ohmyfood@2x.svg"),
             alt: "OhMyFood logo",
             btnSrc: "https://github.com/MarineGlawnick/OpenClassrooms_OhMyFood",
             btnSrc2: "https://marineglawnick.github.io/OpenClassrooms_OhMyFood/",
             width: "w-75",
-            description: "HTML5, CSS3 et SASS",
+            description: "HTML5 / CSS3 / SASS",
         },
         {
-            name: "Agence La Panthère avec OpenClassrooms",
+            name: "Agence La Panthère, OpenClassrooms",
             src: useAssets("agence-la-panthere.svg"),
             alt: "Logo Panthère",
             btnSrc: "https://github.com/MarineGlawnick/OpenClassrooms_LaPanthere_VersionCorrige",
             btnSrc2: "https://marineglawnick.github.io/OpenClassrooms_LaPanthere_VersionCorrige/",
             width: "w-75",
-            description: "HTML5 et CSS3",
+            description: "HTML5 / CSS3",
         },
         {
-            name: "Kanap avec OpenClassrooms",
+            name: "Kanap, OpenClassrooms",
             src: useAssets("logo-kanap.png"),
             alt: "Logo Kanap",
             btnSrc: "https://github.com/MarineGlawnick/OpenClassrooms_Kanap",
             width: "w-50",
-            description: "HTML5 et JavaScript",
+            description: "HTML5 / JavaScript",
         },
         {
-            name: "Piiquante avec OpenClassrooms",
+            name: "Piiquante, OpenClassrooms",
             src: useAssets("PiiquanteLogo.png"),
             alt: "Piiquante logo",
             btnSrc: "https://github.com/MarineGlawnick/OpenClassrooms_Piquante",
             width: "w-100",
-            description: "Node.js, Express.js et MangoDB",
+            description: "Node.js / Express.js / MangoDB",
         },
         {
-            name: "Kasa avec OpenClassrooms",
+            name: "Kasa, OpenClassrooms",
             src: useAssets("logo_header.svg"),
             alt: "Kasa logo",
             btnSrc: "https://github.com/MarineGlawnick/OpenClassrooms_Kasa",
             btnSrc2: "https://fluffy-mousse-36cfbe.netlify.app/",
             width: "w-50",
-            description: "HTML5, CSS3, SASS et React",
+            description: "HTML5 / CSS3 / SASS / React",
         },
     ]
 })

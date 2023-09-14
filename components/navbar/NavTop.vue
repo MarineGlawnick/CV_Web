@@ -20,28 +20,28 @@
                         /></a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="#about">A propos</a>
+                        <a class="nav-link text-white" href="#about">{{ $t("navtop.about") }}</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="#skills">Compétences</a>
+                        <a class="nav-link text-white" href="#skills">{{ $t("navtop.skills") }}</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="#">Parcours</a>
+                        <a class="nav-link text-white" href="#">{{ $t("navtop.studies") }}</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="#">Expérience</a>
+                        <a class="nav-link text-white" href="#">{{ $t("navtop.experience") }}</a>
                     </li>
 
                     <li class="nav-item">
-                        <a class="nav-link" href="#">Réalisations</a>
+                        <a class="nav-link text-white" href="#">{{ $t("navtop.realisations") }}</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="#contactFooter">Contact</a>
+                        <a class="nav-link text-white" href="#contactFooter">Contact</a>
                     </li>
                     <li class="d-flex justify-content-lg-between justify-content-center gap-3 ps-lg-3">
                         <a
                             :class="locale === 'fr' ? 'active' : ''"
-                            class="d-flex gap-1 align-items-center text-decoration-none text-black"
+                            class="d-flex gap-1 align-items-center text-decoration-none text-white"
                             @click.prevent.stop="setLocale('fr')"
                         >
                             <img
@@ -54,7 +54,7 @@
                         </a>
                         <a
                             :class="locale === 'en' ? 'active' : ''"
-                            class="d-flex gap-1 align-items-center text-decoration-none text-black"
+                            class="d-flex gap-1 align-items-center text-decoration-none text-white"
                             @click.prevent.stop="setLocale('en')"
                         >
                             <img

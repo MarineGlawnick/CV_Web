@@ -24,7 +24,7 @@
                     </tr>
                     <tr>
                         <th>{{ $t("about.social") }}</th>
-                        <th class="d-flex flex-row gap-3 justify-content-evenly">
+                        <th class="d-flex flex-row gap-3">
                             <a href="https://www.linkedin.com/in/marine-glawnick/" target="_blank">
                                 <img alt="Linkedin logo" src="@/assets/icons/linkedin.svg" width="30" />
                             </a>

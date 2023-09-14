@@ -1,4 +1,11 @@
 {
+  "navtop": {
+    "about": "A propos",
+    "skills": "Compétences",
+    "studies": "Parcours",
+    "experience": "Expérience",
+    "realisations": "Réalisations"
+  },
   "header": {
     "download": "Télécharger CV",
     "dev": "Développeuse Web"
@@ -21,6 +28,29 @@
     "english": "Maitrise de la langue anglaise: écrit et oral",
     "soft": "Savoir-être :",
     "qualities": "Curieuse, autonome, esprit d'équipe, rigoureuse"
+  },
+  "experience": {
+    "title": "Mon expérience",
+    "accordion_title": "Développeuse web en alternance chez Seela - 2022-23",
+    "accordion_body1": "Maintenance des produits proposés par l'entreprise",
+    "accordion_body2": "Création du site vitrine de l'entreprise",
+    "accordion_body3": "Participation à des POCS",
+    "accordion_body4": "Stack: Nuxt 2/3, Bootstrap, Tailwind, UnoCSS, TypeScript"
+  },
+  "studies": {
+    "title": "Mon parcours",
+    "accordion_title1": "Formation Développeuse Web - 2022-23",
+    "accordion_title2": "Master Mention Métiers de l'Enseignement, de l'Education et de la Formation Option Anglais - 2019-21",
+    "accordion_title3": "Programme Erasmus + - 2016-17",
+    "accordion_title4": "Licence Langues, Littératures et Civilisations Etrangères en anglais - 2014-17",
+    "accordion_body1": "Titre RNCP de niveau V. Réalisé avec OpenClassrooms. Elle a pour but a nous préparer à devenir développeur web grâce des projets qui tournent autour de l'apprentissage du HTML, du CSS et de JS.",
+    "accordion_body2": "Réalisé à l'Institut National Supérieur du Professorat et de l'Education à Aix-en-Pce. Ce master a pour but de nous préparer à l'enseignement de l'anglais dans le second degré. Durant deux ans, 'ai appris à enseigner grâce à des cours théoriques mais aussi grâce à des stages dans des établissements scolaires de ma ville",
+    "accordion_body3": "Réalisé à Maynooth University en Irlande (Co. Kildare). Erasmus + est un programme d'échange universitaire à travers l'Europe. Celui-ci permet de découvrir une nouvelle culture, un nouveau pays, des nouvelles coutumes et parfaire ses connaissances dans la langue parlée dans ce pays. Dans mon cas, j'ai eu l'occasion d'approffondir mes connaissances dans la langue anglaise et découvrir la culture Irlandaise pendant 1 an",
+    "accordion_body4": "Réalisé à l'université ALLSH d'Aix-Marseille à Aix-en-Pce. C'est une licence dans laquelle on étudie en profondeur la langue anglaise. Les domaines étudiés sont: la littérature, les arts, l'histoire, la géographie, l'actualité, la linguistique et la traduction"
+  },
+  "realisation": {
+    "title": "Mes réalisations",
+    "language": "Languages utilisés: "
   },
   "footer": {
     "contact": "Contactez moi !",

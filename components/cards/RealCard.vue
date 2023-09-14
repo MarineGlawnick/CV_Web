@@ -12,7 +12,7 @@
                     </div>
                     <div class="text-center">
                         <p class="fs-12">
-                            <span class="fw-bold">Languages utilisés: </span><br />{{ real.description }}
+                            <span class="fw-bold">{{ $t("realisation.language") }} </span><br />{{ real.description }}
                         </p>
                         <p class="fw-bold m-0">{{ real.name }}</p>
                     </div>
