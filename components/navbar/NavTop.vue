@@ -13,7 +13,7 @@
                 <span class="navbar-toggler-icon"></span>
             </button>
             <div id="navbarContent" class="collapse navbar-collapse justify-content-end align-content-center">
-                <ul class="navbar-nav">
+                <ul class="navbar-nav text-lg-start text-center">
                     <li class="nav-item">
                         <a aria-current="page" class="nav-link active" href="#"
                             ><img alt="Icon de maison" src="@/assets/icons/home.svg"
@@ -37,7 +37,7 @@
                     <li class="nav-item">
                         <a class="nav-link" href="#contactFooter">Contact</a>
                     </li>
-                    <li class="d-flex justify-content-between gap-3 ps-3">
+                    <li class="d-flex justify-content-lg-between justify-content-center gap-3 ps-lg-3">
                         <a
                             :class="locale === 'fr' ? 'active' : ''"
                             class="d-flex gap-1 align-items-center text-decoration-none text-black"
