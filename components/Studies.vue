@@ -5,7 +5,7 @@
             <div class="accordion-item">
                 <h2 class="accordion-header">
                     <button
-                        class="accordion-button collapsed bg-white rounded"
+                        class="accordion-button collapsed bg-white rounded px-4 py-5"
                         type="button"
                         data-bs-toggle="collapse"
                         data-bs-target="#flush-collapseOne"
@@ -20,7 +20,7 @@
                     class="accordion-collapse collapse bg-opacity-25 bg-white"
                     data-bs-parent="#accordionFlushExample"
                 >
-                    <div class="accordion-body">
+                    <div class="accordion-body lh-lg">
                         Titre RNCP de niveau V. Réalisé avec OpenClassrooms. Elle a pour but a nous préparer à devenir
                         développeur web grâce des projets qui tournent autour de l'apprentissage du HTML, du CSS et de
                         JS.
@@ -30,7 +30,7 @@
             <div class="accordion-item">
                 <h2 class="accordion-header">
                     <button
-                        class="accordion-button collapsed bg-white rounded"
+                        class="accordion-button collapsed bg-white rounded px-4 py-5"
                         type="button"
                         data-bs-toggle="collapse"
                         data-bs-target="#flush-collapseTwo"
@@ -46,7 +46,7 @@
                     class="accordion-collapse collapse bg-opacity-25 bg-white"
                     data-bs-parent="#accordionFlushExample"
                 >
-                    <div class="accordion-body">
+                    <div class="accordion-body lh-lg">
                         Réalisé à l'Institut National Supérieur du Professorat et de l'Education à Aix-en-Pce. Ce master
                         a pour but de nous préparer à l'enseignement de l'anglais dans le second degré. Durant deux ans,
                         j'ai appris à enseigner grâce à des cours théoriques mais aussi grâce à des stages dans des
@@ -57,7 +57,7 @@
             <div class="accordion-item">
                 <h2 class="accordion-header">
                     <button
-                        class="accordion-button collapsed bg-white rounded"
+                        class="accordion-button collapsed bg-white rounded px-4 py-5"
                         type="button"
                         data-bs-toggle="collapse"
                         data-bs-target="#flush-collapseThree"
@@ -72,7 +72,7 @@
                     class="accordion-collapse collapse bg-opacity-25 bg-white"
                     data-bs-parent="#accordionFlushExample"
                 >
-                    <div class="accordion-body">
+                    <div class="accordion-body lh-lg">
                         Réalisé à Maynooth University en Irlande (Co. Kildare). Erasmus + est un programme d'échange
                         universitaire à travers l'Europe. Celui-ci permet de découvrir une nouvelle culture, un nouveau
                         pays, des nouvelles coutumes et parfaire ses connaissances dans la langue parlée dans ce pays.
@@ -84,7 +84,7 @@
             <div class="accordion-item">
                 <h2 class="accordion-header">
                     <button
-                        class="accordion-button collapsed bg-white rounded"
+                        class="accordion-button collapsed bg-white rounded px-4 py-5"
                         type="button"
                         data-bs-toggle="collapse"
                         data-bs-target="#flush-collapseFour"
@@ -99,10 +99,10 @@
                     class="accordion-collapse collapse bg-opacity-25 bg-white"
                     data-bs-parent="#accordionFlushExample"
                 >
-                    <div class="accordion-body">
+                    <div class="accordion-body lh-lg">
                         Réalisé à l'université ALLSH d'Aix-Marseille à Aix-en-Pce. C'est une licence dans laquelle on
-                        étudie en profondeur la langue anglaise. Les domaines étudiés sont: la littérature; les arts;
-                        l'histoire; la géographie; l'actualité; la linguistique et la traduction
+                        étudie en profondeur la langue anglaise. Les domaines étudiés sont: la littérature, les arts,
+                        l'histoire, la géographie, l'actualité, la linguistique et la traduction
                     </div>
                 </div>
             </div>

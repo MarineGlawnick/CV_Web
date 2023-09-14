@@ -1,6 +1,6 @@
 <template>
     <section id="skills" class="mx-4 my-2">
-        <h1 class="text-center">{{ $t("skills.skill") }}</h1>
+        <h1 class="text-center mb-4">{{ $t("skills.skill") }}</h1>
         <div class="d-flex flex-column gap-4">
             <div class="shadow card p-2 bg-white border-0">
                 <div class="card-body">
