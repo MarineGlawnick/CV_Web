@@ -5,7 +5,7 @@
             <div class="accordion-item">
                 <h2 class="accordion-header">
                     <button
-                        class="accordion-button collapsed bg-white rounded px-4 py-5"
+                        class="accordion-button collapsed bg-white rounded px-4 py-5 shadow-sm"
                         type="button"
                         data-bs-toggle="collapse"
                         data-bs-target="#flush-collapseOne"
@@ -30,7 +30,7 @@
             <div class="accordion-item">
                 <h2 class="accordion-header">
                     <button
-                        class="accordion-button collapsed bg-white rounded px-4 py-5"
+                        class="accordion-button collapsed bg-white rounded px-4 py-5 shadow-sm"
                         type="button"
                         data-bs-toggle="collapse"
                         data-bs-target="#flush-collapseTwo"
@@ -57,7 +57,7 @@
             <div class="accordion-item">
                 <h2 class="accordion-header">
                     <button
-                        class="accordion-button collapsed bg-white rounded px-4 py-5"
+                        class="accordion-button collapsed bg-white rounded px-4 py-5 shadow-sm"
                         type="button"
                         data-bs-toggle="collapse"
                         data-bs-target="#flush-collapseThree"
@@ -84,7 +84,7 @@
             <div class="accordion-item">
                 <h2 class="accordion-header">
                     <button
-                        class="accordion-button collapsed bg-white rounded px-4 py-5"
+                        class="accordion-button collapsed bg-white rounded px-4 py-5 shadow-sm"
                         type="button"
                         data-bs-toggle="collapse"
                         data-bs-target="#flush-collapseFour"

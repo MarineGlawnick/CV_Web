@@ -11,7 +11,7 @@
             <About />
             <Skills />
             <Studies />
-            <section id="experience"></section>
+            <Experience />
             <Realisation />
         </main>
         <ContactFooter />
