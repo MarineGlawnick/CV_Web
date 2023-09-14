@@ -14,3 +14,22 @@
     padding: 2rem 0;
   }
 }
+
+.real {
+  .card-body {
+    .description {
+      opacity: 0;
+    }
+
+    &:hover .description {
+      opacity: 1;
+      cursor: pointer;
+    }
+  }
+}
+
+
+.realisation {
+  column-gap: 20px;
+  row-gap: 20px;
+}

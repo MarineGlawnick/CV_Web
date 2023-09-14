@@ -12,7 +12,7 @@
             <Skills />
             <section id="experience"></section>
             <section id="studies"></section>
-            <section id="realisations"></section>
+            <Realisation />
         </main>
         <ContactFooter />
     </div>
@@ -23,4 +23,5 @@ import NavTop from "~/components/navbar/NavTop.vue"
 import About from "~/components/About.vue"
 import Skills from "~/components/Skills.vue"
 import ContactFooter from "~/components/ContactFooter.vue"
+import Realisation from "~/components/Realisation.vue"
 </script>
