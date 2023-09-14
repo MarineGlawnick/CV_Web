@@ -10,8 +10,8 @@
             </div>
             <About />
             <Skills />
+            <Studies />
             <section id="experience"></section>
-            <section id="studies"></section>
             <Realisation />
         </main>
         <ContactFooter />

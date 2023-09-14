@@ -1,7 +1,7 @@
 <template>
-    <div id="real-part">
+    <div id="real-part" class="mx-2 mx-lg-0">
         <h1 class="text-center my-4">Mes réalisations</h1>
-        <div class="row row-cols-1 row-cols-md-2 row-cols-lg-4 real-grid justify-content-center w-100">
+        <div class="row row-cols-1 row-cols-md-2 row-cols-lg-4 real-grid justify-content-lg-center m-0 w-100">
             <RealCard :real="realisations[0]" />
             <RealCard :real="realisations[1]" />
             <RealCard :real="realisations[2]" />

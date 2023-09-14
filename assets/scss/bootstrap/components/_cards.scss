@@ -31,11 +31,8 @@
     }
 }
 
-#real-part {
-    margin: 150px 0;
 
-    .real-grid {
-        column-gap: 10px;
-        row-gap: 10px;
-    }
+.real-grid {
+    column-gap: 10px;
+    row-gap: 10px;
 }

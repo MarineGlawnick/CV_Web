@@ -1,27 +1,31 @@
 main {
-  margin: auto;
-  max-width: 1400px;
+    margin: auto;
+    max-width: 1400px;
 }
 
 #header {
-  margin-top: 200px;
+    margin-top: 200px;
 }
 
 #about {
-  margin-bottom: 150px;
+    margin-bottom: 150px;
 
-  .presentation {
-    margin: 0 200px;
-    text-align: justify;
-    @media screen and (max-width: 991px) {
-      margin: 0 30px;
+    .presentation {
+        margin: 0 200px;
+        text-align: justify;
+        @media screen and (max-width: 991px) {
+            margin: 0 30px;
+        }
     }
-  }
 
 }
 
 #skills {
-  .cards {
-    gap: 5px;
-  }
+    .cards {
+        gap: 5px;
+    }
+}
+
+#studies, #real-part {
+    margin: 150px 0;
 }

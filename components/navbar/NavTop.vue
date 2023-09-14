@@ -1,5 +1,5 @@
 <template>
-    <nav class="navbar navbar-expand-lg bg-nav bg-opacity-50">
+    <nav class="navbar navbar-expand-lg bg-nav bg-opacity-50 position-fixed top-0 w-100 z-3">
         <div class="container-fluid">
             <button
                 aria-controls="navbarContent"
@@ -26,11 +26,12 @@
                         <a class="nav-link" href="#skills">Compétences</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="#">Expérience</a>
-                    </li>
-                    <li class="nav-item">
                         <a class="nav-link" href="#">Parcours</a>
                     </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="#">Expérience</a>
+                    </li>
+
                     <li class="nav-item">
                         <a class="nav-link" href="#">Réalisations</a>
                     </li>
