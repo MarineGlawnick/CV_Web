@@ -13,7 +13,13 @@
                 <h1>Marine Glawnick</h1>
                 <h2 id="job" class="fs-6" :class="locale === 'en' ? 'job_en' : ''">{{ $t("header.dev") }}</h2>
                 <div class="d-flex gap-3 justify-content-center my-3">
-                    <button class="btn btn-button-grey rounded-pill text-white">{{ $t("header.download") }}</button>
+                    <a
+                        target="_blank"
+                        class="btn btn-button-grey rounded-pill text-white"
+                        href="https://drive.google.com/file/d/1KR_UNJzoOqmzjJhO6zIz5EATi-HduYUJ/view?usp=sharing"
+                    >
+                        {{ $t("header.download") }}
+                    </a>
                     <a class="btn btn-button-grey rounded-pill text-white" href="mailto:marine.glawnick@gmail.com">
                         Contact
                     </a>

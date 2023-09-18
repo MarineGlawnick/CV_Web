@@ -1,5 +1,5 @@
 <template>
-    <section id="studies">
+    <section id="studies" class="pt-5 mx-3 mx-lg-0">
         <h1 class="text-center mb-4">{{ $t("studies.title") }}</h1>
         <div id="accordionFlushExample" class="accordion accordion-flush">
             <div class="accordion-item">

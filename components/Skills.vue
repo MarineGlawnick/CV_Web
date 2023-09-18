@@ -1,5 +1,5 @@
 <template>
-    <section id="skills" class="mx-4 my-2">
+    <section id="skills" class="mx-3 mx-lg-0 pt-5">
         <h1 class="text-center mb-4">{{ $t("skills.skill") }}</h1>
         <div class="d-flex flex-column gap-4">
             <div class="shadow card p-2 bg-white border-0">

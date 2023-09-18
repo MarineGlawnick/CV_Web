@@ -1,5 +1,5 @@
 #job {
-    width: 190px;
+    width: 200px;
     overflow: hidden;
     border-right: .15em solid black;
     white-space: nowrap;
@@ -10,7 +10,7 @@
 }
 
 .job_en {
-    width: 150px !important;
+    width: 160px !important;
     animation: type_en 3.5s steps(40, end), blink-caret .75s step-end infinite !important;
 }
 
@@ -19,7 +19,7 @@
         width: 0;
     }
     to {
-        width: 150px;
+        width: 160px;
     }
 
 }
@@ -29,7 +29,7 @@
         width: 0
     }
     to {
-        width: 190px
+        width: 200px
     }
 }
 

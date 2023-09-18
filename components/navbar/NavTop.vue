@@ -26,14 +26,14 @@
                         <a class="nav-link text-white" href="#skills">{{ $t("navtop.skills") }}</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link text-white" href="#">{{ $t("navtop.studies") }}</a>
+                        <a class="nav-link text-white" href="#studies">{{ $t("navtop.studies") }}</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link text-white" href="#">{{ $t("navtop.experience") }}</a>
+                        <a class="nav-link text-white" href="#experience">{{ $t("navtop.experience") }}</a>
                     </li>
 
                     <li class="nav-item">
-                        <a class="nav-link text-white" href="#">{{ $t("navtop.realisations") }}</a>
+                        <a class="nav-link text-white" href="#real-part">{{ $t("navtop.realisations") }}</a>
                     </li>
                     <li class="nav-item">
                         <a class="nav-link text-white" href="#contactFooter">Contact</a>

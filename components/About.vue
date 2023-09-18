@@ -1,5 +1,5 @@
 <template>
-    <section id="about">
+    <section id="about" class="pt-5">
         <h1 class="text-center">{{ $t("about.me") }}</h1>
         <div class="d-flex flex-column align-items-center">
             <p class="presentation lh-lg">
