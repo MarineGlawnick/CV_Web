@@ -1,14 +1,14 @@
 <template>
     <section id="about" class="pt-5">
-        <h1 class="text-center">{{ $t("about.me") }}</h1>
-        <div class="d-flex flex-column align-items-center">
+        <h1 class="text-center mb-4">{{ $t("about.me") }}</h1>
+        <div class="d-flex flex-column align-items-center gap-3">
             <p class="presentation lh-lg">
                 {{ $t("about.presentation1") }}<br />
                 {{ $t("about.presentation2") }}
                 <br />
             </p>
 
-            <table class="mt-2">
+            <table>
                 <tbody>
                     <tr>
                         <th class="pe-3">Age</th>
@@ -23,7 +23,7 @@
                         <th class="fw-normal">Aix-en-Provence (13)</th>
                     </tr>
                     <tr>
-                        <th>{{ $t("about.social") }}</th>
+                        <th class="pe-3">{{ $t("about.social") }}</th>
                         <th class="d-flex flex-row gap-3">
                             <a href="https://www.linkedin.com/in/marine-glawnick/" target="_blank">
                                 <img alt="Linkedin logo" src="@/assets/icons/linkedin.svg" width="30" />

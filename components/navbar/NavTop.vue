@@ -1,5 +1,5 @@
 <template>
-    <nav class="navbar navbar-expand-lg bg-nav bg-opacity-50 position-fixed top-0 w-100 z-3">
+    <nav class="navbar navbar-expand-lg bg-nav bg-opacity-50 position-fixed top-0 w-100 z-3 custom-nav">
         <div class="container-fluid">
             <button
                 aria-controls="navbarContent"
@@ -13,7 +13,7 @@
                 <span class="navbar-toggler-icon"></span>
             </button>
             <div id="navbarContent" class="collapse navbar-collapse justify-content-end align-content-center">
-                <ul class="navbar-nav text-lg-start text-center">
+                <ul class="navbar-nav text-lg-start text-center fw-normal">
                     <li class="nav-item">
                         <a aria-current="page" class="nav-link active" href="#"
                             ><img alt="Icon de maison" src="@/assets/icons/home.svg"
