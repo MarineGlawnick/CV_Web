@@ -5,7 +5,7 @@
             {{ $t("footer.currently") }}<br />
             <strong>{{ $t("footer.dev") }}</strong>
         </p>
-        <div class="row row-cols-1 row-cols-md-3 g-5">
+        <div class="row row-cols-1 row-cols-lg-3 g-5">
             <div class="col">
                 <div
                     class="bg-white border border-0 rounded d-flex flex-column align-items-center h-100 shadow py-3 contact-card gap-2"
