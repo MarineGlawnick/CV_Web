@@ -3,7 +3,11 @@ export default defineNuxtConfig({
     typescript: {
         strict: true,
     },
-
+    app: {
+        head: {
+            link: [{ rel: "icon", type: "image/x-icon", href: "/favicon.png" }],
+        },
+    },
     css: ["~/assets/scss/theme.scss"],
     modules: [
         [
