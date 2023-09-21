@@ -111,27 +111,27 @@
                 <div class="card-body">
                     <h1 class="card-title text-center text-lg-start">{{ $t("skills.environment") }}</h1>
                     <div class="d-flex flex-column gap-2">
-                        <div class="d-flex flex-lg-row flex-column align-items-center gap-2">
+                        <div class="d-flex flex-md-row flex-column align-items-center gap-2">
                             <img alt="PC display logo" src="@/assets/icons/pc-display.svg" width="20" />
                             <span class="fw-bold">{{ $t("skills.system") }} </span>
                             <span>Windows, Ubuntu</span>
                         </div>
-                        <div class="d-flex flex-lg-row flex-column align-items-center gap-2">
+                        <div class="d-flex flex-md-row flex-column align-items-center gap-2">
                             <img alt="Terminal logo" src="@/assets/icons/terminal.svg" width="20" />
                             <span class="fw-bold">Workflow : </span>
                             <span>Git, Github, Gitlab,Teams, Jira, NPM</span>
                         </div>
-                        <div class="d-flex flex-lg-row flex-column align-items-center gap-2">
+                        <div class="d-flex flex-md-row flex-column align-items-center gap-2">
                             <img alt="Code slash logo" src="@/assets/icons/code-slash.svg" width="20" />
                             <span class="fw-bold">IDE : </span>
                             <span>Visual Studio Code, Pack JetBrains</span>
                         </div>
-                        <div class="d-flex flex-lg-row flex-column align-items-center gap-2">
+                        <div class="d-flex flex-md-row flex-column align-items-center gap-2">
                             <img alt="Translate logo" src="@/assets/icons/translate.svg" width="20" />
                             <span class="fw-bold">{{ $t("skills.language") }}</span>
                             <span>{{ $t("skills.english") }}</span>
                         </div>
-                        <div class="d-flex flex-lg-row flex-column align-items-center gap-2">
+                        <div class="d-flex flex-md-row flex-column align-items-center gap-2">
                             <img alt="Universal logo" src="@/assets/icons/universal-access.svg" width="20" />
                             <span class="fw-bold">{{ $t("skills.soft") }}</span>
                             <span>{{ $t("skills.qualities") }}</span>
