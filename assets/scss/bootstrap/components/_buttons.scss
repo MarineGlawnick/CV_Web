@@ -1,6 +1,9 @@
 #scroll {
     margin-top: 250px;
     margin-bottom: 130px;
+    @media screen and (max-width: 991px) {
+        margin-top: 200px;
+    }
 }
 
 .active {

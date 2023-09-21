@@ -5,6 +5,9 @@ main {
 
 #header {
     margin-top: 200px;
+    @media screen and (max-width: 991px) {
+        margin-top: 50px;
+    }
 }
 
 #about {
