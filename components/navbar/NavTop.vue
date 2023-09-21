@@ -41,7 +41,7 @@
                     <li class="d-flex justify-content-lg-between justify-content-center gap-3 ps-lg-3">
                         <a
                             :class="locale === 'fr' ? 'active' : ''"
-                            class="d-flex gap-1 align-items-center text-decoration-none text-white"
+                            class="d-flex gap-1 align-items-center text-decoration-none text-white pointer-event"
                             @click.prevent.stop="setLocale('fr')"
                         >
                             <img
@@ -54,7 +54,7 @@
                         </a>
                         <a
                             :class="locale === 'en' ? 'active' : ''"
-                            class="d-flex gap-1 align-items-center text-decoration-none text-white"
+                            class="d-flex gap-1 align-items-center text-decoration-none text-white pointer-event"
                             @click.prevent.stop="setLocale('en')"
                         >
                             <img
