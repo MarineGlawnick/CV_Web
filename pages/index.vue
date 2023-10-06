@@ -24,4 +24,14 @@ import About from "~/components/About.vue"
 import Skills from "~/components/Skills.vue"
 import ContactFooter from "~/components/ContactFooter.vue"
 import Realisation from "~/components/Realisation.vue"
+
+useHead({
+    title: "Marine Glawnick - Développeuse Web",
+    meta: [
+        {
+            name: "description",
+            content: "Je m'appelle Marine Glawnick, je suis développeuse web à Aix-en-Provence et ses alentours.",
+        },
+  ],
+})
 </script>
