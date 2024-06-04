@@ -31,6 +31,34 @@
                 </div>
             </div>
         </div>
+        <div id="accordionFlushExample" class="accordion accordion-flush">
+            <div class="accordion-item">
+                <h2 class="accordion-header">
+                    <button
+                        class="accordion-button collapsed bg-white rounded px-4 py-5 shadow-sm"
+                        type="button"
+                        data-bs-toggle="collapse"
+                        data-bs-target="#flush-collapseFour"
+                        aria-expanded="false"
+                        aria-controls="flush-collapseFour"
+                    >
+                        {{ $t("experience.accordion_title-2") }}
+                    </button>
+                </h2>
+                <div
+                    id="flush-collapseFour"
+                    class="accordion-collapse collapse bg-opacity-25 bg-white"
+                    data-bs-parent="#accordionFlushExample"
+                >
+                    <div class="accordion-body lh-lg">
+                        <ul>
+                            <li>{{ $t("experience.accordion_body1-1") }}</li>
+                            <li>{{ $t("experience.accordion_body2-2") }}</li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+        </div>
     </section>
 </template>
 <script setup lang="ts"></script>

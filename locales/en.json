@@ -1,62 +1,65 @@
 {
-  "navtop": {
-    "about": "About",
-    "skills": "Skills",
-    "studies": "Studies",
-    "experience": "Experience",
-    "realisations": "Projects"
-  },
-  "header": {
-    "download": "Download CV",
-    "dev": "Web Developer"
-  },
-  "about": {
-    "me": "About me",
-    "presentation1": "I am a Web Developer, I am looking for a job after spending one year of intership into a company specialized in cybersecurity. This experience allows me to have a great autonomy and be more confident about my new skills.",
-    "presentation2": "I have literary background, I started with English Studies. However, my educational journey took another turn to the IT world. Indeed, I've always been very interesting into IT development, I first started this new career into this world by learning by myself thanks to onlines courses and videos. After that, I started a school training to become a web developer with OpenClassrooms which helped to reinforce and develop my new skills.",
-    "nationality": "Nationality",
-    "french": "French",
-    "residence": "Place of residence",
-    "social": "Professional social media"
-  },
-  "skills": {
-    "skill": "Skills",
-    "integration": "Integration of responsive websites and mobiles applications that meet W3C standards",
-    "environment": "Working environnement",
-    "system": "Operating system :",
-    "language": "Languages :",
-    "english": "Fluent in English",
-    "soft": "Soft skills :",
-    "qualities": "Curious, autonomous, team spirit, rigorous"
-  },
-  "experience": {
-    "title": "My experience",
-    "accordion_title": "Aprenticeship as a web developer at Seela- 2022-23",
-    "accordion_body1": "Maintenance of the products offered by the company",
-    "accordion_body2": "Creation of the company's showcase site",
-    "accordion_body3": "Participation in POCS",
-    "accordion_body4": "Stack: Nuxt 2/3, Bootstrap, Tailwind, UnoCSS, TypeScript"
-  },
-  "studies": {
-    "title": "My studies",
-    "accordion_title1": "Web Developer Training - 2022-23",
-    "accordion_title2": "Master degree in teaching specialised in English - 2019-21",
-    "accordion_title3": "Erasmus + program - 2016-17",
-    "accordion_title4": "Bachelor degree in English - 2014-17",
-    "accordion_body1": "Title RNCP of level V. Carried out with OpenClassrooms. It aims to prepare us to become a web developer through projects that revolve around learning HTML, CSS and JS.",
-    "accordion_body2": "Carried out with l'Institut National Supérieur du Professorat et de l'Education at Aix-en-Pce. This master degree aims to prepare us to become English teachers. During two years, I've learnt how to teach thanks to theorical lessons but also with some internships in different schools from my hometown.",
-    "accordion_body3": "Carried out at Maynooth University in Ireland (Co. Kildare). Erasmus + is an exchange program through Europe. It allows us to discover a new culture, a new country, new customs and perfect your knowledge in a language spoken in the country. In my case, I had the opportunity to improve in English and discover the Irish culture during one year.",
-    "accordion_body4": "Carried out ay ALLSH university of Aix-Marseille at Aix-en-Pce. This bachelor degree in which we study English. The areas of study: literature, art, history, geography, actuality, linguistic and translation."
-  },
-  "realisation": {
-    "title": "My projects",
-    "language": "Languages used: "
-  },
-  "footer": {
-    "contact": "Contact me !",
-    "currently": "Currently looking for a new job, I am interested in :",
-    "dev": "Web Developer • Front-End Developer",
-    "meet": "Do you want to meet me ?",
-    "address": "I am available in Aix-en-Provences and its surroudings"
-  }
+    "navtop": {
+        "about": "About",
+        "skills": "Skills",
+        "studies": "Studies",
+        "experience": "Experience",
+        "realisations": "Projects"
+    },
+    "header": {
+        "download": "Download CV",
+        "dev": "Web Developer"
+    },
+    "about": {
+        "me": "About me",
+        "presentation1": "I am a Web Developer, I am looking for a job after spending one year of intership into a company specialized in cybersecurity. This experience allows me to have a great autonomy and be more confident about my new skills.",
+        "presentation2": "I have literary background, I started with English Studies. However, my educational journey took another turn to the IT world. Indeed, I've always been very interesting into IT development, I first started this new career into this world by learning by myself thanks to onlines courses and videos. After that, I started a school training to become a web developer with OpenClassrooms which helped to reinforce and develop my new skills.",
+        "nationality": "Nationality",
+        "french": "French",
+        "residence": "Place of residence",
+        "social": "Professional social media"
+    },
+    "skills": {
+        "skill": "Skills",
+        "integration": "Integration of responsive websites and mobiles applications that meet W3C standards",
+        "environment": "Working environnement",
+        "system": "Operating system :",
+        "language": "Languages :",
+        "english": "Fluent in English",
+        "soft": "Soft skills :",
+        "qualities": "Curious, autonomous, team spirit, rigorous"
+    },
+    "experience": {
+        "title": "My experiences",
+        "accordion_title": "Aprenticeship as a web developer at Seela- 2022-23",
+        "accordion_title-2": "Freelance as web developer - 2023-today",
+        "accordion_body1": "Maintenance of the products offered by the company",
+        "accordion_body2": "Creation of the company's showcase site",
+        "accordion_body3": "Participation in POCS",
+        "accordion_body4": "Stack: Nuxt 2/3, Bootstrap, Tailwind, UnoCSS, TypeScript",
+        "accordion_body1-1": "Creating websites for companies",
+        "accordion_body2-2": "Stack: VueJS, NuxtJS, Bootstrap, TypeScript, CSS3, HTML5, NodeJS"
+    },
+    "studies": {
+        "title": "My studies",
+        "accordion_title1": "Web Developer Training - 2022-23",
+        "accordion_title2": "Master degree in teaching specialised in English - 2019-21",
+        "accordion_title3": "Erasmus + program - 2016-17",
+        "accordion_title4": "Bachelor degree in English - 2014-17",
+        "accordion_body1": "Title RNCP of level V. Carried out with OpenClassrooms. It aims to prepare us to become a web developer through projects that revolve around learning HTML, CSS and JS.",
+        "accordion_body2": "Carried out with l'Institut National Supérieur du Professorat et de l'Education at Aix-en-Pce. This master degree aims to prepare us to become English teachers. During two years, I've learnt how to teach thanks to theorical lessons but also with some internships in different schools from my hometown.",
+        "accordion_body3": "Carried out at Maynooth University in Ireland (Co. Kildare). Erasmus + is an exchange program through Europe. It allows us to discover a new culture, a new country, new customs and perfect your knowledge in a language spoken in the country. In my case, I had the opportunity to improve in English and discover the Irish culture during one year.",
+        "accordion_body4": "Carried out ay ALLSH university of Aix-Marseille at Aix-en-Pce. This bachelor degree in which we study English. The areas of study: literature, art, history, geography, actuality, linguistic and translation."
+    },
+    "realisation": {
+        "title": "My projects",
+        "language": "Languages used: "
+    },
+    "footer": {
+        "contact": "Contact me !",
+        "currently": "Currently looking for a new job, I am interested in :",
+        "dev": "Web Developer • Front-End Developer",
+        "meet": "Do you want to meet me ?",
+        "address": "I am available in Aix-en-Provences and its surroudings"
+    }
 }
