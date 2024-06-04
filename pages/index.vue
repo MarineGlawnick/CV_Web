@@ -32,6 +32,6 @@ useHead({
             name: "description",
             content: "Je m'appelle Marine Glawnick, je suis développeuse web à Aix-en-Provence et ses alentours.",
         },
-  ],
+    ],
 })
 </script>

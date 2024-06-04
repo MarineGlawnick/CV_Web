@@ -1,17 +1,16 @@
 #job {
     width: 200px;
     overflow: hidden;
-    border-right: .15em solid black;
+    border-right: 0.15em solid black;
     white-space: nowrap;
     margin: 0 auto;
-    letter-spacing: .15em;
-    animation: typing 3.5s steps(40, end),
-    blink-caret .75s step-end infinite;
+    letter-spacing: 0.15em;
+    animation: typing 3.5s steps(40, end), blink-caret 0.75s step-end infinite;
 }
 
 .job_en {
     width: 160px !important;
-    animation: type_en 3.5s steps(40, end), blink-caret .75s step-end infinite !important;
+    animation: type_en 3.5s steps(40, end), blink-caret 0.75s step-end infinite !important;
 }
 
 @keyframes type_en {
@@ -21,21 +20,21 @@
     to {
         width: 160px;
     }
-
 }
 
 @keyframes typing {
     from {
-        width: 0
+        width: 0;
     }
     to {
-        width: 200px
+        width: 200px;
     }
 }
 
 @keyframes blink-caret {
-    from, to {
-        border-color: transparent
+    from,
+    to {
+        border-color: transparent;
     }
     50% {
         border-color: black;
