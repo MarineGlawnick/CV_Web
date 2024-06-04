@@ -38,15 +38,15 @@
                         class="accordion-button collapsed bg-white rounded px-4 py-5 shadow-sm"
                         type="button"
                         data-bs-toggle="collapse"
-                        data-bs-target="#flush-collapseFour"
+                        data-bs-target="#flush-collapseSix"
                         aria-expanded="false"
-                        aria-controls="flush-collapseFour"
+                        aria-controls="flush-collapseSix"
                     >
                         {{ $t("experience.accordion_title-2") }}
                     </button>
                 </h2>
                 <div
-                    id="flush-collapseFour"
+                    id="flush-collapseSix"
                     class="accordion-collapse collapse bg-opacity-25 bg-white"
                     data-bs-parent="#accordionFlushExample"
                 >
