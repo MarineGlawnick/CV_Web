@@ -2,9 +2,11 @@
 $bg-navbar: #b4a79e;
 $button: #a38f85;
 $progress: #cdc6c3;
+$dark-pink: #bb6687;
 
 $custom-theme-colors: (
-    "nav": $bg-navbar,
-    "button-grey": $button,
-    "progress": $progress,
+        "nav": $bg-navbar,
+        "button-grey": $button,
+        "progress": $progress,
+        "dark-pink": $dark-pink,
 );

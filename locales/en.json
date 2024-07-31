@@ -31,28 +31,45 @@
     },
     "experience": {
         "title": "My experiences",
-        "accordion_title": "Aprenticeship as a web developer at Seela- 2022-23",
-        "accordion_title-2": "Freelance as web developer - 2023-today",
+        "accordion_title": "Aprenticeship as a web developer at Seela- 2022 - 2023",
+        "accordion_title-2": "Freelance as web developer - 2023 - today",
         "accordion_body1": "Maintenance of the products offered by the company",
         "accordion_body2": "Creation of the company's showcase site",
         "accordion_body3": "Participation in POCS",
         "accordion_body4": "Stack: Nuxt 2/3, Bootstrap, Tailwind, UnoCSS, TypeScript",
         "accordion_body1-1": "Creating websites for companies",
-        "accordion_body2-2": "Stack: VueJS, NuxtJS, Bootstrap, TypeScript, CSS3, HTML5, NodeJS"
+        "accordion_body2-2": "Stack: VueJS, NuxtJS, Bootstrap, TypeScript, CSS3, HTML5, NodeJS",
+        "see_more": "See more"
     },
     "studies": {
         "title": "My studies",
-        "accordion_title1": "Web Developer Training - 2022-23",
-        "accordion_title2": "Master degree in teaching specialised in English - 2019-21",
-        "accordion_title3": "Erasmus + program - 2016-17",
-        "accordion_title4": "Bachelor degree in English - 2014-17",
+        "accordion_title1": "Web Developer Training - 2022 - 2023",
+        "accordion_title2": "Master degree in teaching specialised in English - 2019 - 2021",
+        "accordion_title3": "Erasmus + program - 2016 - 2017",
+        "accordion_title4": "Bachelor degree in English - 2014 - 2017",
         "accordion_body1": "Title RNCP of level V. Carried out with OpenClassrooms. It aims to prepare us to become a web developer through projects that revolve around learning HTML, CSS and JS.",
         "accordion_body2": "Carried out with l'Institut National Supérieur du Professorat et de l'Education at Aix-en-Pce. This master degree aims to prepare us to become English teachers. During two years, I've learnt how to teach thanks to theorical lessons but also with some internships in different schools from my hometown.",
         "accordion_body3": "Carried out at Maynooth University in Ireland (Co. Kildare). Erasmus + is an exchange program through Europe. It allows us to discover a new culture, a new country, new customs and perfect your knowledge in a language spoken in the country. In my case, I had the opportunity to improve in English and discover the Irish culture during one year.",
         "accordion_body4": "Carried out ay ALLSH university of Aix-Marseille at Aix-en-Pce. This bachelor degree in which we study English. The areas of study: literature, art, history, geography, actuality, linguistic and translation."
     },
+    "freelance": {
+        "title": "My projects in freelance",
+        "context": "Context",
+        "context_1": "Creation of an appointment booking site for osteopath",
+        "context_2": "The front is set up with Nuxt 3 and Boostrap 5",
+        "context_3": "The back is set up with NodeJS v18 and a MongoDB database",
+        "context_4": "Designing a mockup for the front with Figma",
+        "functionality": "Website's features",
+        "functionality_1": "A weekly planner with appointments, disponibility and absences of the practioners;",
+        "functionality_2": "An appointment booking system for patients and personalized for practitioners;",
+        "functionality_3": "A login and account management system for patients and practitioners with right system (eg: admin);",
+        "functionality_4": "Sending automatic emails for various features such as appointment confirmation email...;",
+        "functionality_5": "Forgot password management with a token;",
+        "functionality_6": "Taking into consideration appointments type such as adult, child, pregnant...",
+        "see_website": "See the website"
+    },
     "realisation": {
-        "title": "My projects",
+        "title": "My personal projects",
         "language": "Languages used: "
     },
     "footer": {

@@ -31,29 +31,46 @@
     },
     "experience": {
         "title": "Mes expériences",
-        "accordion_title": "Développeuse web en alternance chez Seela - 2022-23",
-        "accordion_title-2": "Développeuse web en Freelance- 2023-aujourd'hui",
+        "accordion_title": "Développeuse web en alternance chez Seela - 2022 - 2023",
+        "accordion_title-2": "Développeuse web en Freelance- 2023 - aujourd'hui",
         "accordion_body1": "Maintenance des produits proposés par l'entreprise",
         "accordion_body2": "Création du site vitrine de l'entreprise",
         "accordion_body3": "Participation à des POCS",
         "accordion_body4": "Stack: Nuxt 2/3, Bootstrap, Tailwind, UnoCSS, TypeScript",
         "accordion_body1-1": "Création de site web pour des entreprises ou particuliers",
-        "accordion_body2-2": "Stack: VueJS, NuxtJS, Bootstrap, TypeScript, CSS3, HTML5, NodeJS"
+        "accordion_body2-2": "Stack: VueJS, NuxtJS, Bootstrap, TypeScript, CSS3, HTML5, NodeJS",
+        "see_more": "En voir plus"
     },
     "studies": {
         "title": "Mon parcours",
-        "accordion_title1": "Formation Développeuse Web - 2022-23",
-        "accordion_title2": "Master Mention Métiers de l'Enseignement, de l'Education et de la Formation Option Anglais - 2019-21",
-        "accordion_title3": "Programme Erasmus + - 2016-17",
-        "accordion_title4": "Licence Langues, Littératures et Civilisations Etrangères en anglais - 2014-17",
+        "accordion_title1": "Formation Développeuse Web - 2022 - 2023",
+        "accordion_title2": "Master Mention Métiers de l'Enseignement, de l'Education et de la Formation Option Anglais - 2019 - 2021",
+        "accordion_title3": "Programme Erasmus + - 2016 - 2017",
+        "accordion_title4": "Licence Langues, Littératures et Civilisations Etrangères en anglais - 2014 - 2017",
         "accordion_body1": "Titre RNCP de niveau V. Réalisé avec OpenClassrooms. Elle a pour but a nous préparer à devenir développeur web grâce des projets qui tournent autour de l'apprentissage du HTML, du CSS et de JS.",
         "accordion_body2": "Réalisé à l'Institut National Supérieur du Professorat et de l'Education à Aix-en-Pce. Ce master a pour but de nous préparer à l'enseignement de l'anglais dans le second degré. Durant deux ans, 'ai appris à enseigner grâce à des cours théoriques mais aussi grâce à des stages dans des établissements scolaires de ma ville",
         "accordion_body3": "Réalisé à Maynooth University en Irlande (Co. Kildare). Erasmus + est un programme d'échange universitaire à travers l'Europe. Celui-ci permet de découvrir une nouvelle culture, un nouveau pays, des nouvelles coutumes et parfaire ses connaissances dans la langue parlée dans ce pays. Dans mon cas, j'ai eu l'occasion d'approffondir mes connaissances dans la langue anglaise et découvrir la culture Irlandaise pendant 1 an",
         "accordion_body4": "Réalisé à l'université ALLSH d'Aix-Marseille à Aix-en-Pce. C'est une licence dans laquelle on étudie en profondeur la langue anglaise. Les domaines étudiés sont: la littérature, les arts, l'histoire, la géographie, l'actualité, la linguistique et la traduction"
     },
     "realisation": {
-        "title": "Mes réalisations",
+        "title": "Mes réalisations personnelles",
         "language": "Languages utilisés: "
+    },
+    "freelance": {
+        "title": "Mes réalisations en freelance",
+        "context": "Contexte",
+        "context_1": "Création d'un site de prise de rendez-vous pour ostéopathe",
+        "context_2": "Mise en place du front en Nuxt 3 et Boostrap 5",
+        "context_3": "Mise en place du back en NodeJS v18 et une database MongoDB",
+        "context_4": "Conception d'une maquette pour le front avec Figma",
+        "functionality": "Fonctionnalités du site",
+        "functionality_1": "Un calendrier de la semaine avec les rendez-vous, les disponibilités et les absences des praticiens;",
+        "functionality_2": "Un système de prise de rendez-vous pour les patients et personnalisé pour les praticiens;",
+        "functionality_3": "Un système de login et de gestion de compte pour les patients et les praticiens avec système de droit (ex: admin);",
+        "functionality_4": "Envoie de mail automatique pour divers fonctionnalité (ex: confirmation de rendez-vous...);",
+        "functionality_5": "Gestion des mots de passe oubliés avec token;",
+        "functionality_6": "Prise en compte de type de rendez-vous: adulte, enfant...",
+        "see_website": "Voir le site"
     },
     "footer": {
         "contact": "Contactez moi !",

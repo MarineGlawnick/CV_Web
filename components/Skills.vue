@@ -45,6 +45,30 @@
                             </div>
                         </div>
                         <div class="d-flex flex-column gap-1">
+                            <span>NodeJs</span>
+                            <div
+                                aria-valuemax="100"
+                                aria-valuemin="0"
+                                aria-valuenow="0"
+                                class="progress bg-white border border-1 border-progress"
+                                role="progressbar"
+                            >
+                                <div class="progress-bar bg-progress" style="width: 80%"></div>
+                            </div>
+                        </div>
+                        <div class="d-flex flex-column gap-1">
+                            <span>MongoDB</span>
+                            <div
+                                aria-valuemax="100"
+                                aria-valuemin="0"
+                                aria-valuenow="0"
+                                class="progress bg-white border border-1 border-progress"
+                                role="progressbar"
+                            >
+                                <div class="progress-bar bg-progress" style="width: 80%"></div>
+                            </div>
+                        </div>
+                        <div class="d-flex flex-column gap-1">
                             <span>VueJS 3 / Nuxt 3</span>
                             <div
                                 aria-valuemax="100"

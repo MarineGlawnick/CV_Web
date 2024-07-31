@@ -12,6 +12,7 @@
             <Skills />
             <Studies />
             <Experience />
+            <Freelance />
             <Realisation />
         </main>
         <ContactFooter />
@@ -24,6 +25,7 @@ import About from "~/components/About.vue"
 import Skills from "~/components/Skills.vue"
 import ContactFooter from "~/components/ContactFooter.vue"
 import Realisation from "~/components/Realisation.vue"
+import Freelance from "~/components/Freelance.vue"
 
 useHead({
     title: "Marine Glawnick - Développeuse Web",

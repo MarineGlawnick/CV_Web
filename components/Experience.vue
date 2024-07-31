@@ -12,7 +12,7 @@
                         aria-expanded="false"
                         aria-controls="flush-collapseFive"
                     >
-                        {{ $t("experience.accordion_title") }}
+                        {{ $t("experience.accordion_title-2") }}
                     </button>
                 </h2>
                 <div
@@ -22,11 +22,14 @@
                 >
                     <div class="accordion-body lh-lg">
                         <ul>
-                            <li>{{ $t("experience.accordion_body1") }}</li>
-                            <li>{{ $t("experience.accordion_body2") }}</li>
-                            <li>{{ $t("experience.accordion_body3") }}</li>
-                            <li>{{ $t("experience.accordion_body4") }}</li>
+                            <li>{{ $t("experience.accordion_body1-1") }}</li>
+                            <li>{{ $t("experience.accordion_body2-2") }}</li>
                         </ul>
+                        <div class="text-center">
+                            <a class="btn btn-button-grey rounded-pill text-white" href="#freelance">{{
+                                $t("experience.see_more")
+                            }}</a>
+                        </div>
                     </div>
                 </div>
             </div>
@@ -42,7 +45,7 @@
                         aria-expanded="false"
                         aria-controls="flush-collapseSix"
                     >
-                        {{ $t("experience.accordion_title-2") }}
+                        {{ $t("experience.accordion_title") }}
                     </button>
                 </h2>
                 <div
@@ -52,8 +55,10 @@
                 >
                     <div class="accordion-body lh-lg">
                         <ul>
-                            <li>{{ $t("experience.accordion_body1-1") }}</li>
-                            <li>{{ $t("experience.accordion_body2-2") }}</li>
+                            <li>{{ $t("experience.accordion_body1") }}</li>
+                            <li>{{ $t("experience.accordion_body2") }}</li>
+                            <li>{{ $t("experience.accordion_body3") }}</li>
+                            <li>{{ $t("experience.accordion_body4") }}</li>
                         </ul>
                     </div>
                 </div>
