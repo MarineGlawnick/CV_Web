@@ -70,7 +70,17 @@
         "functionality_4": "Envoie de mail automatique pour divers fonctionnalité (ex: confirmation de rendez-vous...);",
         "functionality_5": "Gestion des mots de passe oubliés avec token;",
         "functionality_6": "Prise en compte de type de rendez-vous: adulte, enfant...",
-        "see_website": "Voir le site"
+        "see_website": "Voir le site",
+        "dtg_context_1": "Création d'une site d'entrainement à la cybersécurité",
+        "dtg_context_2": "Mise en place du front avec Nuxt 3, TailwindCSS et UnoCSS",
+        "dtg_context_3": "Mise en place du back avec NodeJS et une base de donnée PostgreSQL",
+        "dtg_context_4": "Collaboration avec une graphiste pour la maquette",
+        "dtg_functionality_1": "Un système de login et de gestion de compte pour les élèves et les formateurs avec système de droit (ex: admin, teacher, student);",
+        "dtg_functionality_2": "Envoie de mail automatique pour divers fonctionnalité (ex: envoie de voucher,création de compte...);",
+        "dtg_functionality_3": "Gestion des mots de passe oubliés et des envoies personnalisés avec token;",
+        "dtg_functionality_4": "Gestion des cours et centre d'adminsitration des cours;",
+        "dtg_functionality_5": "Génération de voucher unique par classe;",
+        "dtg_functionality_6": "Gestion des classes avec liste d'élèves manuelle et CSV."
     },
     "footer": {
         "contact": "Contactez moi !",

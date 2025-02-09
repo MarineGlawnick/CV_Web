@@ -1,5 +1,5 @@
 <template>
-    <section id="about" class="pt-5">
+    <section id="about" class="py-5 bg-white rounded shadow-lg">
         <h1 class="text-center mb-4">{{ $t("about.me") }}</h1>
         <div class="d-flex flex-column align-items-center gap-3">
             <p class="presentation lh-lg">

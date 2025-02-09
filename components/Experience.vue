@@ -1,7 +1,7 @@
 <template>
     <section id="experience" class="pt-5 mx-3 mx-lg-0">
         <h1 class="text-center mb-4">{{ $t("experience.title") }}</h1>
-        <div id="accordionFlushExample" class="accordion accordion-flush">
+        <div id="accordionFlushExample" class="accordion accordion-flush shadow-lg">
             <div class="accordion-item">
                 <h2 class="accordion-header">
                     <button

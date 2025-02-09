@@ -27,3 +27,17 @@ main {
         gap: 5px;
     }
 }
+
+//#carouselExample .carousel-control-prev,
+//#carouselExample .carousel-control-next {
+//    width: auto; /* Ajuste la largeur pour éviter qu'elles ne chevauchent trop */
+//    transform: translateY(-50%); /* Centre verticalement */
+//}
+
+#carouselExample .carousel-control-prev {
+    left: -100px; /* Déplace la flèche de gauche en dehors */
+}
+
+#carouselExample .carousel-control-next {
+    right: -100px; /* Déplace la flèche de droite en dehors */
+}

@@ -66,7 +66,17 @@
         "functionality_4": "Sending automatic emails for various features such as appointment confirmation email...;",
         "functionality_5": "Forgot password management with a token;",
         "functionality_6": "Taking into consideration appointments type such as adult, child, pregnant...",
-        "see_website": "See the website"
+        "see_website": "See the website",
+        "dtg_context_1": "Creation of a cybersecurity training website",
+        "dtg_context_2": "The front is set up with Nuxt 3, TailwindCSS and UnoCSS",
+        "dtg_context_3": "The back is setup with NodeJS et a PostgreSQL database",
+        "dtg_context_4": "Collaboration with a graphic designer for the mockup",
+        "dtg_functionality_1": "A login and account management system for students and teachers with rights system (ex: admin, teacher, student);",
+        "dtg_functionality_2": "Sending automatic emails for various features such as voucher email, creating account email...",
+        "dtg_functionality_3": "Forgotten password management and personalized email sending with token;",
+        "dtg_functionality_4": "Course management and course administration center",
+        "dtg_functionality_5": "Generation of a unique voucher per class;",
+        "dtg_functionality_6": "Class management with a manual student list and CSV import."
     },
     "realisation": {
         "title": "My personal projects",

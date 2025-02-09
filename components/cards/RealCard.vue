@@ -1,5 +1,5 @@
 <template>
-    <div class="card real-card p-0 bg-white">
+    <div class="card real-card p-0 bg-white shadow">
         <div class="card-body p-0">
             <div class="ratio d-flex align-items-center justify-content-center h-100 w-100">
                 <img :alt="real.alt" :src="real.src" class="img-fluid position-relative h-auto" :class="real.width" />

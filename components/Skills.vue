@@ -53,7 +53,7 @@
                                 class="progress bg-white border border-1 border-progress"
                                 role="progressbar"
                             >
-                                <div class="progress-bar bg-progress" style="width: 80%"></div>
+                                <div class="progress-bar bg-progress" style="width: 90%"></div>
                             </div>
                         </div>
                         <div class="d-flex flex-column gap-1">
@@ -65,7 +65,7 @@
                                 class="progress bg-white border border-1 border-progress"
                                 role="progressbar"
                             >
-                                <div class="progress-bar bg-progress" style="width: 80%"></div>
+                                <div class="progress-bar bg-progress" style="width: 90%"></div>
                             </div>
                         </div>
                         <div class="d-flex flex-column gap-1">
@@ -125,7 +125,7 @@
                                 class="progress bg-white border border-1 border-progress"
                                 role="progressbar"
                             >
-                                <div class="progress-bar bg-progress" style="width: 80%"></div>
+                                <div class="progress-bar bg-progress" style="width: 100%"></div>
                             </div>
                         </div>
                     </div>
@@ -143,7 +143,7 @@
                         <div class="d-flex flex-md-row flex-column align-items-center gap-2">
                             <img alt="Terminal logo" src="@/assets/icons/terminal.svg" width="20" />
                             <span class="fw-bold">Workflow : </span>
-                            <span>Git, Github, Gitlab,Teams, Jira, NPM</span>
+                            <span>Git, Github, Gitlab, Teams, Jira, NPM</span>
                         </div>
                         <div class="d-flex flex-md-row flex-column align-items-center gap-2">
                             <img alt="Code slash logo" src="@/assets/icons/code-slash.svg" width="20" />
